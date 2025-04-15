@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate Web Developer & English teacher w
 
 
  📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakhmudSD&show_icons=true&theme=tokyonight)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakhmudSD&show_icons=true&theme=tokyonight)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakhmudSD&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakhmudSD&layout=compact)
 
 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MakhmudSD) 
